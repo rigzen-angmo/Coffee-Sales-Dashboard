@@ -36,6 +36,7 @@ This dashboard was built using:
 ## 4. Data Source
 
 - Coffee Sales Dataset from *Kaggle*
+- The original raw dataset is included in this repository.
 - Data was cleaned and prepared in Microsoft Excel before creating the dashboard.
 
 ---
@@ -89,7 +90,7 @@ Before creating the dashboard, the following data preparation steps were complet
 
 ### Dashboard Overview
 
-![Coffee Sales Dashboard](dashboard-overview.png)
+![Coffee-Sales-Dashboard](dashboard-overview.png)
 
 ---
 
@@ -108,5 +109,6 @@ This dashboard helps users:
 ## 9. Project Files
 
 - Coffee_Sales_Dashboard.xlsx – Excel Dashboard
-- dashboard-overview.png – Dashboard Screenshot
+- raw_coffee_sales_data.xlsx - Original datasets from Kaggle (before data cleaning)
+- Dashboard-overview.png – Dashboard Screenshot
 - README.md – Project Documentation
