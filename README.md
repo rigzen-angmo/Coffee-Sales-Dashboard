@@ -86,15 +86,7 @@ Before creating the dashboard, the following data preparation steps were complet
 
 ---
 
-## 7. Dashboard Preview
-
-### Dashboard Overview
-
-![Coffee-Sales-Dashboard](dashboard-overview.png)
-
----
-
-## 8. Business Insights
+## 7. Business Insights
 
 This dashboard helps users:
 
@@ -106,9 +98,18 @@ This dashboard helps users:
 
 ---
 
-## 9. Project Files
+## 8. Project Files
 
 - Coffee_Sales_Dashboard.xlsx – Excel Dashboard
 - raw_coffee_sales_data.xlsx - Original datasets from Kaggle (before data cleaning)
 - Dashboard-overview.png – Dashboard Screenshot
 - README.md – Project Documentation
+
+---
+
+## 9. Dashboard Preview
+
+### Dashboard Overview
+
+![Coffee-Sales-Dashboard](Dashboard-overview.png)
+
