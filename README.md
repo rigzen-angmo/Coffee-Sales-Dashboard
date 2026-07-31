@@ -82,3 +82,31 @@ Before creating the dashboard, the following data preparation steps were complet
 - Created Pivot Tables and Pivot Charts
 - Added interactive slicers for dashboard filtering
 - Prepared the dataset for analysis
+
+---
+
+## 7. Dashboard Preview
+
+### Dashboard Overview
+
+![Coffee Sales Dashboard](dashboard-overview.png)
+
+---
+
+## 8. Business Insights
+
+This dashboard helps users:
+
+- Identify the best-selling coffee types.
+- Compare sales across different countries.
+- Analyze yearly sales trends.
+- Understand weekday sales patterns.
+- Support data-driven business decisions.
+
+---
+
+## 9. Project Files
+
+- Coffee_Sales_Dashboard.xlsx – Excel Dashboard
+- dashboard-overview.png – Dashboard Screenshot
+- README.md – Project Documentation
